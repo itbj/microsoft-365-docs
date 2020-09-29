@@ -272,3 +272,6 @@ You can approach optimization as an incremental process, applying each method su
 [How Microsoft builds its fast and reliable global network](https://azure.microsoft.com/blog/how-microsoft-builds-its-fast-and-reliable-global-network/)
 
 [Office 365 Networking blog](https://techcommunity.microsoft.com/t5/Office-365-Networking/bd-p/Office365Networking)
+
+## URL 20200929  
+
