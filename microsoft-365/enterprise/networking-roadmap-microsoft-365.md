@@ -66,3 +66,6 @@ See how the Contoso Corporation, a fictional but representative multi-national b
 ## Next step
 
 Start your networking planning with the [Microsoft 365 networking connectivity overview](microsoft-365-networking-overview.md).
+
+## 20200930  
+
